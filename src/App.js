@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavigationBar from './Components/NavigationBar'
+import NavigationBar from './components/NavigationBar'
 import './App.css';
 
 class App extends Component {
