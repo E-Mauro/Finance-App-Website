@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import NavigationBar from './components/NavigationBar'
-import './App.css';
+import './App.css'
 import HomePage from './components/HomePage'
+import Footer from './components/Footer'
 
 class App extends Component {
   render() {
@@ -9,7 +10,7 @@ class App extends Component {
       <main className="App">
         <NavigationBar />
         <HomePage />
-        {/* Elias*/}
+        <Footer/>
       </main>
     );
   }
