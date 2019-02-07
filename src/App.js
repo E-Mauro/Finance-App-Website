@@ -9,7 +9,7 @@ class App extends Component {
       <main className="App">
         <NavigationBar />
         <HomePage />
-        {/* Mauro */}
+        {/* Elias*/}
       </main>
     );
   }
