@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 import NavigationBar from './components/NavigationBar'
 import './App.css';
+import HomePage from './components/HomePage'
 
 class App extends Component {
   render() {
     return (
       <main className="App">
-        <NavigationBar></NavigationBar>
-        <h1>Hello World!</h1>
+        <NavigationBar />
+        <HomePage />
+        {/* Mauro */}
       </main>
     );
   }
