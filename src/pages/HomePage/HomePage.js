@@ -5,7 +5,7 @@ import "./HomePage.css"
 class HomePage extends Component {
     render() {
         return (
-            <div class="flex-container">
+            <div className="flex-container">
                 <div>
                     <div>
                         <h1>Super cartera virtual</h1>
