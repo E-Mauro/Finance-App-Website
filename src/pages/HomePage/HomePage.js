@@ -9,7 +9,7 @@ class HomePage extends Component {
                 <div>
                     <div>
                         <h1>Super cartera virtual</h1>
-                        <img src={logo} />
+                        <img alt="logo" src={logo} />
                         <h3>¿A donde fue tu dinero?</h3>
                         <p>Comienza a organizar tus finanzas y descubrelo</p>
                     </div>

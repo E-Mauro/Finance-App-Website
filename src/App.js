@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import NavigationBar from './components/NavigationBar'
+import HomePage from './pages/HomePage/HomePage'
 import './App.css'
-import HomePage from './components/HomePage/HomePage'
-import HomePage_style from './components/HomePage/HomePage.css'
 
 import Footer from './components/Footer'
 
