@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import logo from "./logo.webp"
+import "./HomePage.css"
 
 class HomePage extends Component {
     render() {
@@ -7,7 +9,7 @@ class HomePage extends Component {
                 <div>
                     <div>
                         <h1>Super cartera virtual</h1>
-                        <img src="https://lh3.googleusercontent.com/LBIyqZbsxXWWQWjsWD5moPJhQQ5L0OKUFNNEbNfUAyJR8vBhPTNll4m2Z2-Lu6reuU4=s180-rw" />
+                        <img src={logo} />
                         <h3>¿A donde fue tu dinero?</h3>
                         <p>Comienza a organizar tus finanzas y descubrelo</p>
                     </div>
