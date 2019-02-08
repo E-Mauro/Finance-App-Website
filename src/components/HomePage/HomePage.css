@@ -1,0 +1,23 @@
+.homediv{
+    color: white;
+    font-family: "Verdana", Times, serif;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+.homeH1{
+    border: 0.5vh solid;
+    border-radius: 0vh 0vh 5vh 5vh;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.homeButton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 2vh;
+    text-align: center;
+    font-size: 3vh;
+    margin: 1vh;
+    cursor: pointer;
+    border-radius: 5vh 5vh 5vh 5vh;
+  }
